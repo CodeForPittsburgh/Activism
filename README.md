@@ -6,9 +6,9 @@ Tools to Speak to Power
 
 Table of Contents: 
 * [Best Methods for Influencing ______](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#what-are-the-best-methods-for-influencing)
-* What Kind of Data Best Sways This Person?
-* How so I find out who my ____ are?
-* General Resources on Being an Active Citizen
+* [What Kind of Data Best Sways This Person?](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#what-kind-of-data-best-sways-this-person)
+* [How so I find out who my ____ are?](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#how-do-i-find-out-who-represents-me)
+* [General Resources on Being an Active Citizen](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#general-resources-on-being-an-active-citizen)
 
 ## [What are the best methods for influencing...](#what-are-the-best-methods-for-influencing) 
 
@@ -102,7 +102,7 @@ Earned media: make a lot of noise and they'll come find you (e.g. a protest)
 
 ***
 
-## What Kind of Data Best Sways This Person?
+## [What Kind of Data Best Sways This Person?](#what-kind-of-data-best-sways-this-person)
 
 ### Elected Officials
 Localized data about constituents
@@ -147,7 +147,7 @@ Use visualizations to raise interest
 
 ***
 
-## How do I find out who my [    ] are?
+## [How do I find out who represents me?](#how-do-i-find-out-who-represents-me)
 
 ### Elected Officials
 http://www.commoncause.org/take-action/find-elected-officials/?referrer=https://www.google.com/
@@ -180,6 +180,6 @@ Bylines. Also most journalists seem to be on twitter (and prefer it over other m
 
 ***
 
-## General Resources on Being an Active Citizen(#general-resources-on-being-an-active-citizen)
+## [General Resources on Being an Active Citizen](#general-resources-on-being-an-active-citizen)
 https://www.good.is/articles/building-blocks-of-citizenship-50-ways-to-be-a-more-engaged-active-citizen-this-year
 https://www.mycivicworkout.com/
