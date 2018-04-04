@@ -1,14 +1,14 @@
-# Data + Activism
-
-Tools to Speak to Power
+# Data + Activism:  Tools to Speak to Power
 
 *The goal of the document is to identify best practices for speaking with various stakeholders in the public sphere.*
 
-Table of Contents: 
+## Table of Contents: 
 * [Best Methods for Influencing ______](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#what-are-the-best-methods-for-influencing)
 * [What Kind of Data Best Sways This Person?](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#what-kind-of-data-best-sways-this-person)
 * [How so I find out who my ____ are?](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#how-do-i-find-out-who-represents-me)
 * [General Resources on Being an Active Citizen](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#general-resources-on-being-an-active-citizen)
+
+***
 
 ## [What are the best methods for influencing...](#what-are-the-best-methods-for-influencing) 
 
