@@ -37,7 +37,7 @@ Table of Contents:
 5. Alternative ways to promote 
 
 ### Appointed Officials
-Very similar to elected officials, though they sometimes require indirect pressure.
+* Very similar to elected officials, though they sometimes require indirect pressure.
 
 ### Citizen Groups
 1. Social media presence
@@ -54,132 +54,132 @@ Very similar to elected officials, though they sometimes require indirect pressu
 >“Speaking TO a group vs speaking ABOUT a group. Both are public actions.”
 
 ### Corporations
-Boycotts
-Shareholder vote!--buy stock then vote in their elections
-Endorse (Speaking with wallet)
-Price cutting (e.g., CVS is currently buying a different EpiPen like product from company other than Mylan)
-Social Media: public shaming!
-Yelp
-Positive reinforcement for doing the right thing (through any channel)
-Get smaller companies to boycott larger ones they use
-Better Business Bureau
-Court of Law
-Unionization
-Through politicians 
-Billboards, advertisement, etc.
-Customer surveys
-Word of Mouth
-Talking points, scripts
-“Can I speak with your manager”
+* Boycotts
+* Shareholder vote!--buy stock then vote in their elections
+* Endorse (Speaking with wallet)
+* Price cutting (e.g., CVS is currently buying a different EpiPen like product from company other than Mylan)
+* Social Media: public shaming!
+* Yelp
+* Positive reinforcement for doing the right thing (through any channel)
+* Get smaller companies to boycott larger ones they use
+* Better Business Bureau
+* Court of Law
+* Unionization
+* Through politicians 
+* Billboards, advertisement, etc.
+* Customer surveys
+* Word of Mouth
+* Talking points, scripts
+* “Can I speak with your manager”
 
 ### Religious Organizations
-Talk to them
-Attend
-Social media
-Find out board members
-Earmark your donation for certain programs
-Write a letter
-Learn; have your religious institution reach out to other religious institutions
-Volunteer
+* Talk to them
+* Attend
+* Social media
+* Find out board members
+* Earmark your donation for certain programs
+* Write a letter
+* Learn; have your religious institution reach out to other religious institutions
+* Volunteer
 
 ### Non-Profits
-"Advocacy" is the usual term used within the Non-Profit world to talk about employees who advocate on behalf of the non-profit's clients & the larger legal structures that relate to that issue.
-i.e. if you want the nonprofit to take an issue to government on your behalf, you go talk to their advocacy department.
-Usually they do letter-writing, protests, petitions, mobilization
-501(c3) nonprofits try to keep the amount of time spent on advocacy under 10% (this might be slightly higher). They have to make their primary purpose providing services. But surveying their clients is very time-consuming
-As a result, most non-profits don't have the capacity to do extensive surveys
-If you can talk to the nonprofit's clients on their behalf and get them written down, e.g. doing a survey, this doesn't count as time the nonprofit is spending on advocacy, so you can just hand them the survey results and they can take them to lawmakers.
-They can also use the results: 
-To improve their service provision
-For storytelling
+* "Advocacy" is the usual term used within the Non-Profit world to talk about employees who advocate on behalf of the non-profit's clients & the larger legal structures that relate to that issue. *i.e. if you want the nonprofit to take an issue to government on your behalf, you go talk to their advocacy department.*
+* Usually they do letter-writing, protests, petitions, mobilization
+* 501(c3) nonprofits try to keep the amount of time spent on advocacy under 10% (this might be slightly higher). They have to make their primary purpose providing services. But surveying their clients is very time-consuming
+* As a result, most non-profits don't have the capacity to do extensive surveys
+* If you can talk to the nonprofit's clients on their behalf and get them written down, e.g. doing a survey, this doesn't count as time the nonprofit is spending on advocacy, so you can just hand them the survey results and they can take them to lawmakers.
+* They can also use the results: 
+  - To improve their service provision
+  - For storytelling
 
 ### Journalists (“The Fourth Estate”)
-Sara suggests: email them. 
-How to make it interesting to the journalist:
-Specificity
-knowing what the journalist already covers. The story should be relevant to their work.
-Earned media: make a lot of noise and they'll come find you (e.g. a protest)
+* Sara suggests: email them. 
+* How to make it interesting to the journalist:
+  - Specificity
+  - knowing what the journalist already covers. The story should be relevant to their work.
+* Earned media: make a lot of noise and they'll come find you (e.g. a protest)
 
 ***
 
 ## [What Kind of Data Best Sways This Person?](#what-kind-of-data-best-sways-this-person)
 
 ### Elected Officials
-Localized data about constituents
-Approval ratings
-Votes
+* Localized data about constituents
+* Approval ratings
+* Votes
 
 ### Appointed Officials
 [PLEASE ADD CONTENT]
 
 ### Citizen Groups
-Crime data
-Permits
-(see also Burgh’s Eye View)
+* Crime data
+* Permits
+
+(see also [Burgh’s Eye View](https://pittsburghpa.shinyapps.io/BurghsEyeView/)
 
 ### Corporations
-Sales/bottom line
-Info about sales of competitors
-Salaries
-Positive/negative customer reviews
+* Sales/bottom line
+* Info about sales of competitors
+* Salaries
+* Positive/negative customer reviews
 
 ### Religious Organizations
-Donations
-Sins
-Congregational demographics
-Attendance/Membership #s
-Utility bills
-Information about local needs (e.g., hunger data localized to the neighborhood)
-Numbers about how many people used their services (e.g., food pantry, clothing ministry, cold weather shelter)
+* Donations
+* Sins
+* Congregational demographics
+* Attendance/Membership #s
+* Utility bills
+* Information about local needs (e.g., hunger data localized to the neighborhood)
+* Numbers about how many people used their services (e.g., food pantry, clothing ministry, cold weather shelter)
 
 ### Non-Profits
 [PLEASE ADD CONTENT]
-Show data relevant to their agenda
-Show how data can influence contributions and volunteers
-Allow nonprofits to amplify your voice on topics you both care about
+* Show data relevant to their agenda
+* Show how data can influence contributions and volunteers
+* Allow nonprofits to amplify your voice on topics you both care about
 
 ### Journalists (“The Fourth Estate”)
 [PLEASE ADD CONTENT]
 Getting journalists to care about a dataset with a story:
-Talk to people, go to community meetings. Show up
-Find out which journalists care about the subject matter
-Use visualizations to raise interest
+* Talk to people, go to community meetings. Show up
+* Find out which journalists care about the subject matter
+* Use visualizations to raise interest
 
 ***
 
 ## [How do I find out who represents me?](#how-do-i-find-out-who-represents-me)
 
 ### Elected Officials
-http://www.commoncause.org/take-action/find-elected-officials/?referrer=https://www.google.com/
-http://www.whospeaksfor.us/
-http://whoismyrepresentative.com/
-https://www.callmycongress.com/
-https://whoaremyrepresentatives.org - includes local representatives
+* http://www.commoncause.org/take-action/find-elected-officials/?referrer=https://www.google.com/
+* http://www.whospeaksfor.us/
+* http://whoismyrepresentative.com/
+* https://www.callmycongress.com/
+* https://whoaremyrepresentatives.org - includes local representatives
 
 ### Appointed Officials
-[PLEASE ADD GUIDANCE - this one stumped everyone, beyond googling the office to which that person reports.]
+* [PLEASE ADD GUIDANCE - this one stumped everyone, beyond googling the office to which that person reports.]
 
 ### Citizen Groups
-Social Media
-Research tax filings
+* Social Media
+* Research tax filings
 
 ### Corporations
-Websites
-Social Media
-Research tax filings
-Research political donations
+* Websites
+* Social Media
+* Research tax filings
+* Research political donations
 
 ### Non-Profits
-Guidestar
-501c3 Lookup or other public data lookups.
-Keyword search
-Non-profits tend to have a .org domain, though some have .com
+* Guidestar
+* 501c3 Lookup or other public data lookups.
+* Keyword search
+* Non-profits tend to have a .org domain, though some have .com
 
 ### Journalists (“The Fourth Estate”)
-Bylines. Also most journalists seem to be on twitter (and prefer it over other mediums?)
+* Bylines. Also most journalists seem to be on twitter (and prefer it over other mediums?)
 
 ***
 
 ## [General Resources on Being an Active Citizen](#general-resources-on-being-an-active-citizen)
-https://www.good.is/articles/building-blocks-of-citizenship-50-ways-to-be-a-more-engaged-active-citizen-this-year
-https://www.mycivicworkout.com/
+* https://www.good.is/articles/building-blocks-of-citizenship-50-ways-to-be-a-more-engaged-active-citizen-this-year
+* https://www.mycivicworkout.com/
