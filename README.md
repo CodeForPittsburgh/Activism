@@ -1,51 +1,59 @@
 # Data + Activism
+
 Tools to Speak to Power
+
 *The goal of the document is to identify best practices for speaking with various stakeholders in the public sphere.*
 
-What are the best methods for influencing...
+Table of Contents: 
+* [Best Methods for Influencing ______](https://github.com/CodeForPittsburgh/Activism/blob/master/README.md#what-are-the-best-methods-for-influencing)
+* What Kind of Data Best Sways This Person?
+* How so I find out who my ____ are?
+* General Resources on Being an Active Citizen
 
-## Elected Officials
-Channel
-In person, representing a larger group you're part of
-Going to public hearings, town halls - and you’ll get 3 minutes to talk
-Speech is very important - phone calls!
-Email
-Twitter
-Thinking about who uses which channels
-RESOURCE: Metafilter Thread about Best Channels
-RESOURCE: Indivisible
-Issues
-Not knowing the demographics about who IS and ISN’T contacting representatives (whose voices aren’t being heard?)
-Sometimes difficult/inconvenient to call elected officials
-Representatives can easily ignore emails and online petitions
-Some community organizations interface more easily with elected representatives
-How to reach people who aren’t represented in classic organizations
-RESOURCE: University of Wisconsin-Extension, Cooperative Extension : Tips for Working with Elected and Appointed Officials
-Message
-Partisan vs. non-partisan
-FOIA request for demographic data and topics people called their representatives about
-OR at least zip codes to find the places people are/aren’t calling from 
-To give to advocacy groups to increase/promote increased advocacy
-Alternative ways to promote 
+## [What are the best methods for influencing...](#what-are-the-best-methods-for-influencing) 
 
-## Appointed Officials
+### Elected Officials
+1. Channel
+* In person, representing a larger group you're part of
+* Going to public hearings, town halls - and you’ll get 3 minutes to talk
+* Speech is very important - phone calls!
+* Email
+* Twitter
+* Thinking about who uses which channels
+* RESOURCE: [Metafilter Thread about Best Channels](http://ask.metafilter.com/263340/How-to-most-effectivly-communicate-with-elected-representatives)
+* RESOURCE: [Indivisible](https://www.indivisibleguide.com/)
+2. Issues
+* Not knowing the demographics about who IS and ISN’T contacting representatives (whose voices aren’t being heard?)
+* Sometimes difficult/inconvenient to call elected officials
+* Representatives can easily ignore emails and online petitions
+* Some community organizations interface more easily with elected representatives
+* How to reach people who aren’t represented in classic organizations
+* RESOURCE: [University of Wisconsin-Extension, Cooperative Extension : Tips for Working with Elected and Appointed Officials](http://www.uwex.edu/ces/employeeresources/value/documents/Working%20with%20Elected%20and%20Appointed%20Officials.pdf)
+3. Message
+* Partisan vs. non-partisan
+4. FOIA request for demographic data and topics people called their representatives about
+* OR at least zip codes to find the places people are/aren’t calling from 
+* To give to advocacy groups to increase/promote increased advocacy
+5. Alternative ways to promote 
+
+### Appointed Officials
 Very similar to elected officials, though they sometimes require indirect pressure.
 
-## Citizen Groups
-Social media presence
-Larger campaigns
-Smaller interactions
-Tweet chats
-Word of mouth
-Attend events
-Meetups!
-Whether in support or in protest
-Marching
-Speaking with $$$
-Find out who board members are
-“Speaking TO a group vs speaking ABOUT a group. Both are public actions.”
+### Citizen Groups
+1. Social media presence
+* Larger campaigns
+* Smaller interactions
+* Tweet chats
+2. Word of mouth
+3. Attend events
+* Meetups!
+* Whether in support or in protest
+* Marching
+4. Speaking with $$$
+5. Find out who board members are
+>“Speaking TO a group vs speaking ABOUT a group. Both are public actions.”
 
-## Corporations
+### Corporations
 Boycotts
 Shareholder vote!--buy stock then vote in their elections
 Endorse (Speaking with wallet)
@@ -64,7 +72,7 @@ Word of Mouth
 Talking points, scripts
 “Can I speak with your manager”
 
-## Religious Organizations
+### Religious Organizations
 Talk to them
 Attend
 Social media
@@ -74,7 +82,7 @@ Write a letter
 Learn; have your religious institution reach out to other religious institutions
 Volunteer
 
-## Non-Profits
+### Non-Profits
 "Advocacy" is the usual term used within the Non-Profit world to talk about employees who advocate on behalf of the non-profit's clients & the larger legal structures that relate to that issue.
 i.e. if you want the nonprofit to take an issue to government on your behalf, you go talk to their advocacy department.
 Usually they do letter-writing, protests, petitions, mobilization
@@ -85,7 +93,7 @@ They can also use the results:
 To improve their service provision
 For storytelling
 
-## Journalists (“The Fourth Estate”)
+### Journalists (“The Fourth Estate”)
 Sara suggests: email them. 
 How to make it interesting to the journalist:
 Specificity
@@ -94,28 +102,28 @@ Earned media: make a lot of noise and they'll come find you (e.g. a protest)
 
 ***
 
-# What Kind of Data Best Sways this Person?
+## What Kind of Data Best Sways This Person?
 
-## Elected Officials
+### Elected Officials
 Localized data about constituents
 Approval ratings
 Votes
 
-## Appointed Officials
+### Appointed Officials
 [PLEASE ADD CONTENT]
 
-## Citizen Groups
+### Citizen Groups
 Crime data
 Permits
 (see also Burgh’s Eye View)
 
-## Corporations
+### Corporations
 Sales/bottom line
 Info about sales of competitors
 Salaries
 Positive/negative customer reviews
 
-## Religious Organizations
+### Religious Organizations
 Donations
 Sins
 Congregational demographics
@@ -124,13 +132,13 @@ Utility bills
 Information about local needs (e.g., hunger data localized to the neighborhood)
 Numbers about how many people used their services (e.g., food pantry, clothing ministry, cold weather shelter)
 
-## Non-Profits
+### Non-Profits
 [PLEASE ADD CONTENT]
 Show data relevant to their agenda
 Show how data can influence contributions and volunteers
 Allow nonprofits to amplify your voice on topics you both care about
 
-## Journalists (“The Fourth Estate”)
+### Journalists (“The Fourth Estate”)
 [PLEASE ADD CONTENT]
 Getting journalists to care about a dataset with a story:
 Talk to people, go to community meetings. Show up
@@ -139,39 +147,39 @@ Use visualizations to raise interest
 
 ***
 
-# How do I find out who my [    ] are?
+## How do I find out who my [    ] are?
 
-## Elected Officials
+### Elected Officials
 http://www.commoncause.org/take-action/find-elected-officials/?referrer=https://www.google.com/
 http://www.whospeaksfor.us/
 http://whoismyrepresentative.com/
 https://www.callmycongress.com/
 https://whoaremyrepresentatives.org - includes local representatives
 
-## Appointed Officials
+### Appointed Officials
 [PLEASE ADD GUIDANCE - this one stumped everyone, beyond googling the office to which that person reports.]
 
-## Citizen Groups
+### Citizen Groups
 Social Media
 Research tax filings
 
-## Corporations
+### Corporations
 Websites
 Social Media
 Research tax filings
 Research political donations
 
-## Non-Profits
+### Non-Profits
 Guidestar
 501c3 Lookup or other public data lookups.
 Keyword search
 Non-profits tend to have a .org domain, though some have .com
 
-## Journalists (“The Fourth Estate”)
+### Journalists (“The Fourth Estate”)
 Bylines. Also most journalists seem to be on twitter (and prefer it over other mediums?)
 
 ***
 
-# General Resources on Being an Active Citizen
+## General Resources on Being an Active Citizen(#general-resources-on-being-an-active-citizen)
 https://www.good.is/articles/building-blocks-of-citizenship-50-ways-to-be-a-more-engaged-active-citizen-this-year
 https://www.mycivicworkout.com/
